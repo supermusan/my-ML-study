@@ -1,6 +1,11 @@
 # my-ML-study
 ml study
 
-reference: Machine Learning in Action, Peter Harrington
+environment：
+* python3
 
-python 3
+reference:
+* Machine Learning in Action, Peter Harrington, 李锐,李鹏,曲亚东,王斌 译
+* sklearn
+
+
